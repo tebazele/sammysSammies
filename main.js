@@ -136,4 +136,3 @@ function drawTotal() {
 }
 
 drawMenu()
-drawReceipt()
